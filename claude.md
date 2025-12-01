@@ -13,13 +13,30 @@ Detta repo fungerar som en kunskapsbas för att snabbt skapa kontext kring:
 - Vad vi håller på med
 - Vilka beslut som har tagits och varför
 
+## Projektstruktur
+
+```
+SmartHus/
+├── docs/
+│   ├── vp/           # Värmepump-dokumentation
+│   └── tank/         # Ackumulatortank-dokumentation
+└── system/
+    └── hemstruktur.md  # Systembeskrivning
+```
+
+Se `system/hemstruktur.md` för detaljerad beskrivning av hur systemet hänger ihop.
+
 ## Installerad utrustning
 
 ### Värmepump (vp)
 - **Modell:** KHC-06RY1-B
 - **Refereras alltid som:** `vp`
+- **Dokumentation:** `docs/vp/`
 
 ### Ackumulatortank
 - **Installerad modell:** TIV-500L/FC110/SOL10
-- **Dokumentation:** TIV-500L/FC110/SOL12
-- **Notering:** Skillnaden mellan modellerna är att solslingorna är lite längre i SOL12-modellen som vi har dokumentation för.
+- **Dokumentation:** `docs/tank/`
+- **Notering:** Vi använder dokumentation för SOL12-modellen. Skillnaden är att solslingorna är lite längre i SOL12.
+
+### Golvvärme
+- **Typ:** Vattenburen golvvärme
