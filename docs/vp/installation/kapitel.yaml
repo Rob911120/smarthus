@@ -1,0 +1,71 @@
+# Kapitelindelning för Heat Pump Installation Manual (engelska)
+# 106 sidor totalt
+
+kapitel:
+  - namn: "00-framsida"
+    titel: "Framsida och innehåll"
+    sidor: [1, 6]
+
+  - namn: "01-safety-precautions"
+    titel: "Safety Precautions"
+    sidor: [7, 9]
+
+  - namn: "02-general-introduction"
+    titel: "General Introduction"
+    sidor: [10, 10]
+
+  - namn: "03-accessories"
+    titel: "Accessories"
+    sidor: [11, 11]
+
+  - namn: "04-before-installation"
+    titel: "Before Installation"
+    sidor: [11, 11]
+
+  - namn: "05-refrigerant-info"
+    titel: "Important Information for the Refrigerant"
+    sidor: [12, 12]
+
+  - namn: "06-installation-site"
+    titel: "Installation Site"
+    sidor: [13, 14]
+
+  - namn: "07-installation-precautions"
+    titel: "Installation Precautions"
+    sidor: [15, 17]
+
+  - namn: "08-typical-applications"
+    titel: "Typical Applications (inkl. cascade system)"
+    sidor: [18, 24]
+
+  - namn: "09-overview-unit"
+    titel: "Overview of the Unit (komponenter, el, vatten)"
+    sidor: [25, 53]
+
+  - namn: "10-startup-config"
+    titel: "Start-up and Configuration (DIP-switchar, inställningar)"
+    sidor: [54, 67]
+
+  - namn: "11-test-run"
+    titel: "Test Run and Final Checks"
+    sidor: [68, 68]
+
+  - namn: "12-maintenance"
+    titel: "Maintenance and Service"
+    sidor: [68, 68]
+
+  - namn: "13-troubleshooting"
+    titel: "Trouble Shooting (felkoder)"
+    sidor: [69, 79]
+
+  - namn: "14-technical-specs"
+    titel: "Technical Specifications"
+    sidor: [80, 80]
+
+  - namn: "15-controller-colour"
+    titel: "Controller with Colour Display"
+    sidor: [81, 97]
+
+  - namn: "16-information-servicing"
+    titel: "Information Servicing"
+    sidor: [98, 106]

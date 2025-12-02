@@ -1,0 +1,35 @@
+# Kapitelindelning för Wired Controller Operations Manual (engelska)
+# 68 sidor totalt
+
+kapitel:
+  - namn: "00-framsida"
+    titel: "Framsida och innehåll"
+    sidor: [1, 5]
+
+  - namn: "01-safety-precautions"
+    titel: "General Safety Precautions"
+    sidor: [6, 8]
+
+  - namn: "02-documentation"
+    titel: "Documentation"
+    sidor: [9, 9]
+
+  - namn: "03-user-interface"
+    titel: "User Interface"
+    sidor: [10, 20]
+
+  - namn: "04-basic-operations"
+    titel: "Basic Operations"
+    sidor: [21, 24]
+
+  - namn: "05-other-functions"
+    titel: "Other Functions and Settings (Schedule, Weather, DHW, etc.)"
+    sidor: [25, 58]
+
+  - namn: "06-installation-config"
+    titel: "Installation Configuration"
+    sidor: [59, 64]
+
+  - namn: "07-operating-parameters"
+    titel: "Operating Parameters"
+    sidor: [65, 68]

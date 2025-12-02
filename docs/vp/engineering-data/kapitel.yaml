@@ -1,0 +1,19 @@
+# Kapitelindelning för Engineering Data - Mono Type Heat Pump R32
+# 102 sidor totalt
+
+kapitel:
+  - namn: "00-framsida"
+    titel: "Framsida och innehåll"
+    sidor: [1, 2]
+
+  - namn: "01-general-information"
+    titel: "Part 1: General Information"
+    sidor: [3, 16]
+
+  - namn: "02-engineering-data"
+    titel: "Part 2: Engineering Data (specifikationer, diagram)"
+    sidor: [17, 56]
+
+  - namn: "03-installation-field-settings"
+    titel: "Part 3: Installation and Field Settings"
+    sidor: [57, 102]
