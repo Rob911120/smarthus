@@ -1,0 +1,35 @@
+# Kapitelindelning för Kaisai Bruksanvisning (trådbunden styrenhet)
+# Baserat på innehållsförteckning sida 4
+
+kapitel:
+  - namn: "00-framsida"
+    titel: "Framsida och intro"
+    sidor: [1, 4]
+
+  - namn: "01-forsiktighetsatgarder"
+    titel: "Allmänna försiktighetsåtgärder"
+    sidor: [5, 5]
+
+  - namn: "02-anvandargranssnitt"
+    titel: "Allmän information om användargränssnittet"
+    sidor: [6, 6]
+
+  - namn: "03-hemsidor"
+    titel: "Användning av hemsidor"
+    sidor: [7, 8]
+
+  - namn: "04-menystruktur"
+    titel: "Meny struktur"
+    sidor: [9, 11]
+
+  - namn: "05-grundlaggande-drift"
+    titel: "Grundläggande drift"
+    sidor: [9, 11]
+
+  - namn: "06-atgard"
+    titel: "Åtgärd (driftläge, temperatur, varmvatten, schema, alternativ)"
+    sidor: [12, 26]
+
+  - namn: "07-menystruktur-oversikt"
+    titel: "Menystruktur: Översikt"
+    sidor: [27, 81]

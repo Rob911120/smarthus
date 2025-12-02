@@ -18,13 +18,28 @@ Detta repo fungerar som en kunskapsbas för att snabbt skapa kontext kring:
 ```
 SmartHus/
 ├── docs/
-│   ├── vp/           # Värmepump-dokumentation
-│   └── tank/         # Ackumulatortank-dokumentation
+│   ├── vp/                    # Värmepump-dokumentation
+│   │   └── bruksanvisning/
+│   │       ├── original.pdf   # Originaldokument
+│   │       ├── kapitel.yaml   # Kapitelindelning
+│   │       ├── sidor/         # Uppdelade sidor
+│   │       └── kapitel/       # Grupperade kapitel
+│   └── tank/                  # Ackumulatortank-dokumentation
+├── scripts/                   # Verktyg
+│   ├── split_pdfs.py          # Dela upp PDF i sidor
+│   └── group_chapters.py      # Gruppera sidor till kapitel
 └── system/
-    └── hemstruktur.md  # Systembeskrivning
+    └── hemstruktur.md         # Systembeskrivning
 ```
 
 Se `system/hemstruktur.md` för detaljerad beskrivning av hur systemet hänger ihop.
+
+## Instruktioner för Claude
+
+**VIKTIGT:** När du ska läsa dokumentation för en komponent:
+1. **Läs alltid `kapitel.yaml` först** om den finns - den beskriver dokumentets struktur
+2. Använd kapitelindelningen för att hitta rätt avsnitt snabbt
+3. Läs specifika sidor från `kapitel/` för att hålla kontexten liten
 
 ## Installerad utrustning
 
